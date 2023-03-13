@@ -1,0 +1,28 @@
+{
+  "name": "UnitedArmour",
+  "version": "1.0.0",
+  "license": "MIT",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build --dist-dir docs --public-url https://wxsd-sales.github.io/sharepoint-space-widget"
+  },
+  "dependencies": {
+    "@momentum-ui/core": "^19.15.29",
+    "axios": "^0.26.1",
+    "base-64": "^1.0.0",
+    "is-base64": "^1.1.0",
+    "isemail": "^3.2.0",
+    "jquery": "^3.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "parcel": "^2.4.0"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "events": "^3.3.0",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "util": "^0.12.4"
+  }
+}
