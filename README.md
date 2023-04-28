@@ -47,6 +47,8 @@
 
 <!-- ABOUT THE PROJECT -->
 
+ *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._
+ 
 ## About The Project
 
 To display two space widgets in a single web application. One widget to only display the content and messages being sent in a targeted space (SPACE_DESTINATION) and the other space widget to allow the user
